@@ -1,6 +1,6 @@
 ### Hello there! 👋 I'm Amen Allah Berrejeb
 
-I'm a final year student Telecommunications engineering specializing in Data Science for Embedded Communications  at the National Engineering School of Tunis. With a keen interest in the world of Artificial Intelligence, I'm on a journey to delve deeper into AI subfields.
+I'm a final year  Telecommunications engineering student specializing in Data Science for Embedded Communications  at the National Engineering School of Tunis. With a keen interest in the world of Artificial Intelligence, I'm on a journey to delve deeper into AI subfields.
 
 🔍 **Interests**: AI, Machine Learning, Deep learning , Data Analysis , Python.
 
