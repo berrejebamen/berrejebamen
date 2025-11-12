@@ -8,5 +8,5 @@ I'm a final year  Telecommunications engineering student specializing in Data Sc
 
 📧 **Contact Me**:
 - Email: [berrejebamenallah@gmail.com](mailto:berrejebamenallah@gmail.com)
-- University Email: [amenallah.berrejeb@etudiant-enit.utm.tn](mailto:amenallah.berrejeb@etudiant-enit.utm.tn)
+- University Email: [amenallah.berrejeb@urv.cat](mailto:amenallah.berrejeb@urv.cat)
 
