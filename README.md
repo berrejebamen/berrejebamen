@@ -1,8 +1,8 @@
 ### Hello there! 👋 I'm Amen Allah Berrejeb
 
-I'm a final year  Telecommunications engineering student specializing in Data Science for Embedded Communications  at the National Engineering School of Tunis. With a keen interest in the world of Artificial Intelligence, I'm on a journey to delve deeper into AI subfields.
+I am a Phd Student at Universitat Rovira i Virgili, conducting research at CloudLAB URV.
 
-🔍 **Interests**: AI, Machine Learning, Deep learning , Data Analysis , Python.
+🔍 **Interests**: AI, Machine Learning, Deep learning , Data Engineering, AWS , Python.
 
 🌐 **Portfolio**: [Check out my work here](https://amenallah.streamlit.app)
 
