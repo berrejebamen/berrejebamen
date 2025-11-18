@@ -2,7 +2,7 @@
 
 I am a Phd Student at Universitat Rovira i Virgili, conducting research at CloudLAB URV.
 
-🔍 **Interests**: AI Research, Machine Learning, RAG, Vector Databases , Data Engineering, AWS , Python.
+🔍 **Interests**: AI Research, Machine Learning, RAG, Vector Databases , Data Engineering, AWS , Python, Rust.
 
 🌐 **Portfolio**: [Check out my work here](https://amenallah.streamlit.app)
 
