@@ -1,8 +1,7 @@
 ### Hello there! 👋 I'm Amen Allah Berrejeb
 
-I am a Phd Student at Universitat Rovira i Virgili, conducting research at CloudLAB URV.
 
-🔍 **Interests**: AI Research, Machine Learning, RAG, Vector Databases , Data Engineering, AWS , Python, Rust.
+🔍 **Interests**: AI Research, Machine Learning, RAG, Vector Databases , Data Engineering, AWS , Python, SQL.
 
 🌐 **Portfolio**: [Check out my work here](https://amenallah.streamlit.app)
 
