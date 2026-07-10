@@ -1,7 +1,7 @@
 ### Hello there! 👋 I'm Amen Allah Berrejeb
 
 
-🔍 **Interests**: AI Research, Machine Learning, RAG, Vector Databases , Data Engineering, AWS , Python, SQL.
+🔍 **Interests**: AI Research, Machine Learning, RAG, Vector Database, AWS , Python, SQL.
 
 🌐 **Portfolio**: [Check out my work here](https://amenallah.streamlit.app)
 
